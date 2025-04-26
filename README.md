@@ -1,1 +1,26 @@
-# Report_bot_trading
+# Report_bot_trading<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Dashboard</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <div class="top-panel">
+        <img src="Source/imgs/top_panel.png" alt="Top Panel Image">
+    </div>
+    <h1>Report Dashboard</h1>
+    <h2>Xin chào mọi người, mình là Khang - một lập trình viên tự do.</h2>
+    <p>Đây là một trang web đơn giản để hiển thị các báo cáo hàng tuần về bot trading của mình để mọi người có thể xem qua.</p>
+    <ul>
+        <li><a href="Source/report_best_profit_factor_m5_26_04/report_best_profit_factor_m5_26_04.html">Report: Best Profit Factor M5 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+        <li><a href="Source/report_best_profit_m5_26_04/report_best_profit_m5_26_04.html">Report: Best Profit M5 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+        <li><a href="Source/report_best_sharp_ratio_m5_26_04/report_best_sharp_ratio_m5_26_04.html">Report: Best Sharp Ratio M5 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+        <li><a href="Source/report_best_profit_factor_h1_26_04/report_best_profit_factor_h1_26_04.html">Report: Best Profit Factor H1 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+        <li><a href="Source/report_best_profit_h1_26_04/report_best_profit_h1_26_04.html">Report: Best Profit H1 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+        <li><a href="Source/report_best_sharp_ratio_h1_26_04/report_best_sharp_ratio_h1_26_04.html">Report: Best Sharp Ratio H1 từ ngày 20 tháng 4 đến ngày 26 tháng 4.</a></li>
+    </ul>
+
+</body>
+</html>
